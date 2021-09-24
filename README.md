@@ -1,8 +1,8 @@
 # site-e-commerce-bts
 **************************************************
-*                                                *
-*            Informations importantes            *
-*                                                *
+                                              
+            Informations importantes            
+                                               
 **************************************************
 
 Merci d'implanter la base de données qui se trouve dans bdd/vanille.sql.
@@ -10,7 +10,7 @@ Merci d'implanter la base de données qui se trouve dans bdd/vanille.sql.
 Raisons : Personnalisation lors de la connexion de l'administrateur.
 
 ****************
-* Identifiants *
+  Identifiants 
 ****************
 
 Nom d'utilisateur:	preelt
