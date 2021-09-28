@@ -1,18 +1,16 @@
-# site-e-commerce-bts
 **************************************************
-                                              
-            Informations importantes            
-                                               
+*                                                *
+*            Informations importantes            *
+*                                                *
 **************************************************
 
 Merci d'implanter la base de données qui se trouve dans bdd/vanille.sql.
 
-Raisons : Personnalisation lors de la connexion de l'administrateur.
+Attention, la BDD doit s'appeler vanille.
 
-****************
-  Identifiants 
-****************
+*******************************
+* Identifiants administrateur *
+*******************************
 
 Nom d'utilisateur:	preelt
-
 Mot de passe :		12345
