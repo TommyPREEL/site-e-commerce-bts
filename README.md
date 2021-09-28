@@ -15,4 +15,5 @@ Attention, la BDD doit s'appeler vanille.
 *******************************
 
 Nom d'utilisateur:	preelt
+
 Mot de passe :		12345
